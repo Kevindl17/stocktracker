@@ -11,3 +11,7 @@ To input a stock purchase, you fill in the Ticker, Quantity, Price, Date, Time, 
 
 ### Generate Reports
 There are 3 usefull reports that can be generated from your portfolio and transactions. By pressing the "Generate report 1" button, a report will be 
+
+
+#NOT WORKING CURRENTLY
+The Yfinance library is giving the program an error. There currently is no fix yet, so I'll have to revisit later.
